@@ -1,6 +1,9 @@
-# todo_list
+# Todo_list
 
-A new Flutter project.
+Flutter project that functions as a todo_list application. 
+
+<img src='https://github.com/Arth-999/Images/blob/main/1.jpg' width='300'>                 <img src='https://github.com/Arth-999/Images/blob/main/todo2.jpg' width='300'>                                                       <img src='https://github.com/Arth-999/Images/blob/main/todo3.jpg' width='300'>
+
 
 ## Getting Started
 
